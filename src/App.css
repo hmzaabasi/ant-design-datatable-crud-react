@@ -1,0 +1,9 @@
+.App {
+  padding: 3%;
+  background-color: lightblue;
+  height: 100%;
+}
+.table-wrapper {
+  padding: 10px;
+  background-color: white;
+}
